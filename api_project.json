@@ -1,0 +1,2 @@
+{  "name": "Bank lookup APIs",  "version": "0.0.1",  "description": "Rest API to get details of NEFT enabled bank branches. Note: All details are taken from RBI website. Last update: 29th Apr, 2017",  "sampleUrl": false,  "defaultVersion": "0.0.1",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2017-09-23T13:33:26.452Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }}
+
